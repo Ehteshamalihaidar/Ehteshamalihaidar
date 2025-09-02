@@ -50,9 +50,6 @@ You can view and download my resume here: ➡️ <a href="https://drive.google.c
 
 [![](https://visitcount.itsvg.in/api?id=Ehteshamalihaidar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/EhteshamAliHaidar/EhteshamAliHaidar/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/EhteshamAliHaidar/EhteshamAliHaidar/output/snake.svg#gh-dark-mode-only)
-
 
 </div>
 
