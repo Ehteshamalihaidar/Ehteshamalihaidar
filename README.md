@@ -25,7 +25,7 @@ You can view and download my resume here: ➡️ <a href="https://drive.google.c
 ![](https://nirzak-streak-stats.vercel.app/?user=Ehteshamalihaidar&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehteshamalihaidar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Snake contribution graph with border -->
+<!-- Snake contribution graph -->
 <div align="center" style="padding:10px; border:1px solid #444; border-radius:12px; margin:8px 0;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EhteshamAliHaidar/EhteshamAliHaidar/output/snake-dark.svg">
@@ -55,5 +55,3 @@ You can view and download my resume here: ➡️ <a href="https://drive.google.c
 
 </div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
