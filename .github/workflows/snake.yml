@@ -1,14 +1,14 @@
 name: Generate Snake
 
 on:
-  schedule:            # run nightly (you can change the time)
+  schedule:            
     - cron: "0 0 * * *"
-  workflow_dispatch:   # allows manual run from the Actions tab
-  push:                # also run when you update README/main
+  workflow_dispatch:   
+  push:                
     branches: ["main"]
 
 permissions:
-  contents: write      # <— needed to push to the output branch
+  contents: write      
 
 jobs:
   generate:
