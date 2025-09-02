@@ -25,6 +25,12 @@ You can view and download my resume here: ➡️ <a href="https://drive.google.c
 ![](https://nirzak-streak-stats.vercel.app/?user=Ehteshamalihaidar&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehteshamalihaidar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EhteshamAliHaidar/EhteshamAliHaidar/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EhteshamAliHaidar/EhteshamAliHaidar/output/snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/EhteshamAliHaidar/EhteshamAliHaidar/output/snake.svg">
+</picture>
+
 ---
 
 ## 🏆 GitHub Trophies
