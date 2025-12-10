@@ -7,7 +7,7 @@
 ---
 
 <h3>📄 Resume</h3>
-You can view and download my resume here: ➡️ <a href="https://drive.google.com/file/d/141RVy6zQWydWtwD_91PdWApgOHPrNylr/view?usp=sharing"><b>Download Resume (PDF)</b></a> 
+You can view and download my resume here: ➡️ <a href="https://drive.google.com/file/d/1klWnnb7ly3uFpL244GRJfRb9Jq5s0Ntg/view?usp=sharing"><b>Download Resume (PDF)</b></a>
 
 ---
 </div>
